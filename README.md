@@ -1,4 +1,4 @@
-#ABOUT ME:
+## ABOUT ME:
 I am Hernan Danziger, a Fullstack Web Developer with solid knowledge of NodeJS, React, Redux, PostgreSQL, Express, Sequelize, CSS, HTML5, GIT, JavaScript, MongoDB and TypeScript.
 I was originally trained in Administration and Finance and have more than 10 years of experience managing teams in the Tourism industry, and as a consultant in the Health industry.
 Then the pandemic came... and decided to take it as a chance to develop and throw myself into a path I had always found very appealing in the IT industry.
@@ -7,7 +7,7 @@ I look forward to growing and developing in a company, adding value.
 If you are interested in my profile, you can contact me at: hdanziger@gmail.com
 //
 
-#SOBRE MÍ:
+## SOBRE MÍ:
 Soy Hernán Danziger, Desarrollador Web Fullstack. Tengo sólido manejo de NodeJS, React, Redux, PostgreSQL, Express, Sequelize, CSS, HTML5, GIT, JavaScript, MongoDB y TypeScript.
 Me formé originalmente en Administración y Finanzas y cuento con más de 10 años de experiencia en la industria del Turismo gestionando equipos, y en consultoría en la industria de la Salud.
 Hasta que llegó la Pandemia... y decidí aprovechar la oportunidad para desarrollarme y lanzarme a un camino que siempre me había llamado la atención en la industria IT.
