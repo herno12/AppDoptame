@@ -22,6 +22,18 @@ Los usuarios pueden ver dichas distintas mascotas utilizando distintos criterios
 Los usuarios pueden loguearse luego de generar un usuario y contraseña, o bien a través de sus cuentas de Google. También cuentan con una sección de Favoritos donde pueden ir "guardando" las mascotas que más les gusten o llamen la atención.
 
 Funcionalidade de AppDoptame:
+<ul>
+<li>Registro de usuarios con su mail y contraseña o su cuenta Google.</li>
+<li>3 roles distintos con diferentes permisos y secciones: Usuaruis, Asociacion Protectoras de Animales, Admin.</li>
+<li>Filtrado y ordenamiento de las mascotas de acuerdo a disintos criterios.</li>
+<li>Borraodo lógico.</li>
+<li>Dashboard para APAs en el manejan crean, editan y manejan a las mascotas que publican.</li>
+<li>Dashboard para Admin con acceso a todas las funciones.</li>
+<li>Integración de Pasarela de Pagos Stripe para recibir donaciones.</li>
+</ul>
+
+
+Funcionalidade de AppDoptame:
 -Registro de usuarios con su mail y contraseña o su cuenta Google.
 -3 roles distintos con diferentes permisos y secciones: Usuaruis, Asociacion Protectoras de Animales, Admin.
 -Filtrado y ordenamiento de las mascotas de acuerdo a disintos criterios
