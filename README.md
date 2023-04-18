@@ -24,15 +24,18 @@ Los usuarios pueden loguearse luego de generar un usuario y contraseña, o bien 
 Funcionalidade de AppDoptame:
 <ul>
 <li>Registro de usuarios con su mail y contraseña o su cuenta Google.</li>
-<li>3 roles distintos con diferentes permisos y secciones: Usuaruis, Asociacion Protectoras de Animales, Admin.</li>
+<li>3 roles distintos con diferentes permisos y secciones: Usuarios, Asociacion Protectoras de Animales, Admin.</li>
 <li>Filtrado y ordenamiento de las mascotas de acuerdo a disintos criterios.</li>
 <li>Borraodo lógico.</li>
 <li>Dashboard para APAs en el manejan crean, editan y manejan a las mascotas que publican.</li>
 <li>Dashboard para Admin con acceso a todas las funciones.</li>
 <li>Integración de Pasarela de Pagos Stripe para recibir donaciones.</li>
+<li>Guardado de mascotas en sección Favoritos.</li>
+<li>Reviews y puntuación de usuarios respecto a las APAs y el proceso de adopción.</li>
 </ul>
 
 Tecnologías y librerías utilizadas:
+<br />
 Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV
 
 
