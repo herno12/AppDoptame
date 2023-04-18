@@ -32,19 +32,6 @@ Funcionalidade de AppDoptame:
 <li>Integración de Pasarela de Pagos Stripe para recibir donaciones.</li>
 </ul>
 
-
-Funcionalidade de AppDoptame:
--Registro de usuarios con su mail y contraseña o su cuenta Google.
--3 roles distintos con diferentes permisos y secciones: Usuaruis, Asociacion Protectoras de Animales, Admin.
--Filtrado y ordenamiento de las mascotas de acuerdo a disintos criterios
--Borraodo lógico.
--Dashboard para APAs en el manejan crean, editan y manejan a las mascotas que publican.
--Dashboard para Admin con acceso a todas las funciones.
--Integración de Pasarela de Pagos Stripe para recibir donaciones.
-
-
-
-
 Tecnologías y librerías utilizadas:
 Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV
 
