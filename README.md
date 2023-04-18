@@ -42,7 +42,6 @@ Funcionalidade de AppDoptame:
   <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Login.png/></a>
   <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Home1.png/></a>
   <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Home2.png/></a>
+  <a><img width="250px" src=https://github.com/herno12/AppDoptame/blob/main/images/AppDoptmae-Donation.png/></a>
 </p>
-
-
 
