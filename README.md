@@ -34,10 +34,8 @@ Funcionalidade de AppDoptame:
 <li>Reviews y puntuación de usuarios respecto a las APAs y el proceso de adopción.</li>
 </ul>
 
-Tecnologías y librerías utilizadas:
-<h4>Tecnologías y librerías utilizadas: 
-  <br />
- Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
+<h3>Tecnologías y librerías utilizadas:</h3>
+<h4>Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
 
 
 
