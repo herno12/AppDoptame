@@ -35,7 +35,9 @@ Funcionalidade de AppDoptame:
 </ul>
 
 Tecnologías y librerías utilizadas:
-<h4>Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
+<h4>Tecnologías y librerías utilizadas: 
+  <br />
+ Node | React | Redux | JavaScript | TypeScript | Stripe | Cloudinay | Nodemailer | MongoDB | Express | CSS | HTML5 | oAuth | MUI | Axios | Mongoose | Nodemon | .ENV</h4>
 
 
 
