@@ -18,7 +18,7 @@ Si te interesa mi perfil, puedes contactarme por mail: hdanziger@gmail.com
 
 
 # 🐶 About AppDoptame:
-This apps allows Animal Protection Associations (APAs) to publish the pets that they have under their care, and that are looking for a home, through a Dashboard. Users can find these different pets using different criteria, such as their type, size, and geographic location. They can start the adoption process online, or make a donation to the corresponding APA through Stripe. In both cases, both the user and the APA will receive a notification via email in this regard. Users can log in after generating a username and password, or through their Google accounts. They also have a Favourites section where they can "save" the pets that they like the most.
+This app allows Animal Protection Associations (APAs) to publish the pets under their care, and that are looking for a home, through a Dashboard. Users can find these different pets using different criteria, such as their type, size, and geographic location. They can start the adoption process online, or make a donation to the corresponding APA through Stripe. In both cases, both the user and the APA will receive a notification via email in this regard. Users can log in after generating a username and password, or through their Google accounts. They also have a Favourites section where they can "save" the pets that they like the most.
 
 AppDoptame Features:
 <ul>
