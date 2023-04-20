@@ -27,7 +27,7 @@ AppDoptame Features:
 <li>Pets sorting and filtering.</li>
 <li>Logical deletion.</li>
 <li>Dashboard for APAs in which they create, edit and manage the pets they publish.</li>
-<li>Dashboard for Admin with access to all functions.</li>
+<li>Dashboard for Admin with access to all features.</li>
 <li>Stripe Payment Gateway Integration to receive donations.</li>
 <li>Users can save pets in the Favorites section.</li>
 <li>Users can write reviews and rate APAs</li>
